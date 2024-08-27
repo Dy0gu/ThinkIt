@@ -8,7 +8,7 @@ ThinkIt is a simple program/game that will guess the number (from 0 up to 127) t
 
 ## Installation 🛠️
 
-- Clone the repository
+- Clone the repository:
 
   ```shell
   git clone https://github.com/dy0guy/think-it.git
@@ -16,4 +16,4 @@ ThinkIt is a simple program/game that will guess the number (from 0 up to 127) t
 
 - Mount the board LEDs and buttons as per the pins used in the code.
 
-- Launch the program on an Arduino while plugged in to a computer to view serial monitor output is displayed.
+- Upload and launch the program on an Arduino while plugged in to a computer for serial monitor output.
